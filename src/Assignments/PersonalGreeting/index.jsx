@@ -6,6 +6,10 @@ const Greetings = ()=>{
                 <label>Enter Your name:</label>
                 <input></input>
             </div>
+
+            <div>
+
+            </div>
             
         </>
     )
