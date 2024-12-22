@@ -4,13 +4,8 @@ const Greetings = ()=>{
         <>
             <div>
                 <label>Enter Your name:</label>
-                <input></input>
-            </div>
-
-            <div>
-
-            </div>
-            
+                <input />
+            </div>            
         </>
     )
 }
