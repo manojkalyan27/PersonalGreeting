@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.netflix_title {
+    color: #E50914;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}   
+
+.header_actions{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.header_selection{
+    background-color: black;
+    color: white;
+    padding: 4px;
+    border-radius: 12px;
+}
+
+.header_btn{
+    background-color: #E50914;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 0px solid #E50914;
+}
+.header_btn:hover{
+    background-color: #cf0610;
+}
